@@ -1,2 +1,2 @@
-# seedling-bot
-Little assistant.
+# Seedling Bot
+
